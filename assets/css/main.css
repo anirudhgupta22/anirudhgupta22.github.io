@@ -1,0 +1,12 @@
+.wrapper {
+    margin: 10%;
+    padding: 1.4em;
+}
+
+.icon {
+    padding: .4em;
+}
+
+.ui.header {
+    font-size: 3em !important;
+}
