@@ -1,12 +1,63 @@
 .wrapper {
     margin: 10%;
     padding: 1.4em;
+    height: 60%;
 }
-
+body {
+    height: 100%;
+}
 .icon {
     padding: .4em;
 }
 
 .ui.header {
     font-size: 3em !important;
+}
+
+.sub.header {
+    font-family: Roboto Condensed;
+    /*font-family: 'Raleway', sans-serif;*/
+    /*font-family: 'Roboto', sans-serif;*/
+    margin: 0.2em !important;
+    font-size: 0.5em !important;
+    color: #9c9c9c !important;
+}
+
+.container {
+    padding: 2%;
+}
+
+.content.link {
+    color: black !important;
+    font-weight: 700;
+}
+
+.intro {
+    margin-top: 2%;
+    margin-bottomp: 3%;
+    font-family: 'Lora', serif;
+    font-size: large;
+    line-height: normal;
+}
+
+.cv-download {
+    margin: 1% !important;
+}
+
+mark {
+    background-color: #ffcf43;
+    font-weight: 900 !important;
+    margin-top: 2%;
+    /*font-weight: bold;*/
+}
+
+.footer-msg {
+    font-size: x-small;
+    color: #9c9c9c;
+    margin: 1%;
+}
+
+.section-2 {
+    background-color: #e2e2e2 !important;
+    height: inherit;
 }
